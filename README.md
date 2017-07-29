@@ -1,2 +1,2 @@
 # basketball_variance
-Does a game with more three pointers result in greater variance in a team's total score?
+Does the recent trend in the NBA where more three-pointers are attempted per game result in greater average score and more variability in a team's total score over a season? (Yes)
